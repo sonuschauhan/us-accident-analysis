@@ -1,6 +1,8 @@
 # US Accidents Exploratory Data Analysis
 This project presents an exploratory data analysis (EDA) of US Accidents data sourced from Kaggle. The goal is to provide insights into accident patterns and trends, which could be useful for accident prevention and understanding the factors leading to traffic incidents.
 
+Link for the project : https://jovian.ai/sonusingha37fw/us-accidents-analysis-47fd2
+
 ### Dataset
 Source: Kaggle - US Accidents
 Size: 4.2 million accident records from February 2016 to December 2020.
